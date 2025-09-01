@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f0f8ff;
+  color: #333;
+}
+
+header {
+  background-color: #0077b6;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+main {
+  padding: 20px;
+}
+
+.turma-projeto, .criativo {
+  margin-bottom: 40px;
+  background-color: #e0f7fa;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.mídia img {
+  width: 100%;
+  max-width: 400px;
+  margin-top: 10px;
+}
+
+footer {
+  text-align: center;
+  background-color: #003049;
+  color: white;
+  padding: 10px;
+}
